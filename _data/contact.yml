@@ -7,7 +7,7 @@
 #   icon: "fa-brands fa-x-twitter"
 
 - type: email
-  icon: "fa-graduation-cap"
+  icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
 - type: google-scholar
