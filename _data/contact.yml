@@ -2,10 +2,9 @@
 
 - type: github
   icon: "fab fa-github"
-  url: "https://github.com/ygi8530"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
