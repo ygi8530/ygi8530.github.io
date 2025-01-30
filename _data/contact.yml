@@ -11,8 +11,9 @@
   noblank: true # open link in current tab
 
 - type: google-scholar
-  icon: "fas fa-rss"
+  icon: "fab fa-google-scholar"
   url: 'https://scholar.google.com/citations?user=sN8h8dwAAAAJ&hl=en'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -22,7 +23,14 @@
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url: 'https://www.linkedin.com/in/kang-il-yoon-9aa156344/'                  # Fill with your Linkedin homepage
-#
+
+- type: orcid
+  icon: 'fab fa-orcid'   # icons powered by <https://fontawesome.com/>
+  url: 'https://orcid.org/0000-0001-7776-2693'                  # Fill with your ORCID homepage
+
+- type: location
+  icon: 'fas fa-map-marker-alt'
+  url: 'https://www.google.co.kr/maps/place/%EB%8F%99%EA%B5%AD%EB%8C%80%ED%95%99%EA%B5%90+%EC%84%9C%EC%9A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4/data=!3m1!4b1!4m6!3m5!1s0x357ca302d491f811:0x809ffb62a47609b5!8m2!3d37.5582876!4d127.0001671!16zL20vMDR3NHpx?hl=ko&entry=ttu&g_ep=EgoyMDI1MDEyNy4wIKXMDSoASAFQAw%3D%3D'
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
