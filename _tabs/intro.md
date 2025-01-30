@@ -5,9 +5,7 @@ order: 1
 ---
 
 
-> I am a Ph.D. Candidate majoring in Mechanical Engineering at Dongguk University, Korea, advised by Professor Soo-Chul Lim. I received Bachelor of Science degree from the same university.
-
-> My research goal is to develop a robotic system capable of handling a wide range of objects, including deformable ones, which can autonomously perform various tasks and adapt robustly to environmental changes. By achieving this, I aim to enhance automation across industries and develop robots capable of collaborating with humans.
+> I am a Ph.D. Candidate majoring in Mechanical Engineering at Dongguk University, Korea, advised by Professor Soo-Chul Lim. I received Bachelor of Science degree from the same university.<br><br>My research goal is to develop a robotic system capable of handling a wide range of objects, including deformable ones, which can autonomously perform various tasks and adapt robustly to environmental changes. By achieving this, I aim to enhance automation across industries and develop robots capable of collaborating with humans.
 
 # Education<br>
 <br>
