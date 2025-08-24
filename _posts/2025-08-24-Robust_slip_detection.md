@@ -3,7 +3,7 @@ title: 'Robust Slip Detection using Magnetic Tactile Sensors during Dynamic Robo
 date: 2025-08-24 12:00:00 +0900
 categories: [paper]
 tags: [Magnetic Tactile Sensor, Robotic Manipulation]
-author: [Kang-il_Yoon, Jung-Hwan_Yang, Soo-Chul_Lim]
+author: [Kang-il_Yoon, Jung‐Hwan_Yang, Soo-Chul_Lim]
 description: 'IEEE Sensors Journal, (Early Access)'
 toc: true  # 목차 표시 여부 (기본값: true)
 comments: true  # 댓글 허용 여부 (기본값: _config.yml 설정 따라감)
