@@ -2,7 +2,7 @@
 title: 'Anonymizing at-home fitness: enhancing privacy and motivation with virtual reality and try-on'
 date: 2023-12-19 12:00:00 +0900
 categories: [paper]
-tags: [Computer Vision, smart applications, fitness apps, virtual reality exercise, virtual try-on, physical health, physical activity]     # TAG names should always be lowercase
+tags: [Computer Vision, Virtual Try-on]     # TAG names should always be lowercase
 author: [Kang-il_Yoon, Tae-Soo_Jeong, Seung-Chan_Kim, Soo-Chul_Lim]
 description: 'Frontiers in Public Health, vol.11, 2023'
 toc: true  # 목차 표시 여부 (기본값: true)
@@ -14,8 +14,6 @@ mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 <!-- Frontiers in Public Health, vol.11, 2023<br> -->
 DOI: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">10.3389/fpubh.2023.1333776</a><br>
 <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">[Paper]</a> &nbsp;&nbsp;
-<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">[Project page]</a> &nbsp;&nbsp;
-<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">[Video]</a><br>
 
 INTRODUCTION: This study aimed to address privacy concerns associated with video conferencing tools used in home-based exercise training. To that end, a method that could anonymize participants' appearances and exercise environments during at-home fitness sessions was proposed.<br><br>
 METHODS: This method combines virtual reality for 3-D human-model rendering using key-points tracking with a virtual try-on system enhanced by UV mapping and instance segmentation. To validate the proposed method, we conducted a user study by recruiting participants to assess effectiveness of virtual reality and virtual try-on in terms of privacy protection, self-confidence, and coaching satisfaction.<br><br>
