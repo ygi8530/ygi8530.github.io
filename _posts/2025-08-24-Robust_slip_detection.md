@@ -11,6 +11,7 @@ pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 ---
+![이미지](/assets/image/robust_slip_detection.png)
 DOI: <a href="https://ieeexplore.ieee.org/abstract/document/11130548" target="_blank">10.1109/JSEN.2025.3598269</a><br>
 <a href="https://ieeexplore.ieee.org/abstract/document/11130548" target="_blank">[Paper]</a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=O4yTPTrbXgQ" target="_blank">[Video]</a><br>
