@@ -11,7 +11,7 @@ pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 ---
-![이미지](/assets/image/real2sim_cloth_modeling.jpg)
+![이미지](/assets/image/real2sim_cloth_modeling.png)
 DOI: <a href="https://academic.oup.com/jcde/article/12/8/29/8206149" target="_blank">10.1093/jcde/qwaf065</a><br>
 <a href="https://academic.oup.com/jcde/article/12/8/29/8206149" target="_blank">[Paper]</a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=Y72-moiScXQ" target="_blank">[Video]</a><br>
