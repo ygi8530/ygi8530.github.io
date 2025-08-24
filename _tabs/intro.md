@@ -16,5 +16,4 @@ order: 1
 
 >**B.S.** &ensp;&emsp;&emsp;&emsp;&emsp; **Dongguk University**, in Mechanical, Robotics, and Engineering  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*Mar. 2016 – Feb. 2020*<br>
 &nbsp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Seoul, Republic of Korea)<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• *Cumulative GPA* : 3.45/4.5<br>
 
