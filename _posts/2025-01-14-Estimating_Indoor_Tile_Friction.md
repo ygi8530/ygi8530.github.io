@@ -11,6 +11,7 @@ pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 ---
+![이미지](/assets/image/estimating_indoor_tile_friction.jpg)
 DOI: <a href="https://academic.oup.com/jcde/advance-article/doi/10.1093/jcde/qwaf003/7954144" target="_blank">/10.1093/jcde/qwaf003</a><br>
 <a href="https://academic.oup.com/jcde/advance-article/doi/10.1093/jcde/qwaf003/7954144" target="_blank">[Paper]</a> &nbsp;&nbsp;
 
