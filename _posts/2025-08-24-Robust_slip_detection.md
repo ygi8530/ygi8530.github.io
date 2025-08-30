@@ -1,6 +1,8 @@
 ---
 title: 'Robust Slip Detection using Magnetic Tactile Sensors during Dynamic Robotic Manipulation via Stray Magnetic Fields Compensation'
-date: 2025-08-24 12:00:00 +0900
+image:
+  path: /assets/image/padding_img/robust_slip_detection.png
+date: 2025-08-19 12:00:00 +0900
 categories: [paper]
 tags: [Magnetic Tactile Sensor, Robotic Manipulation]
 author: [Kang-il_Yoon, Jung‐Hwan_Yang, Soo-Chul_Lim]
@@ -11,7 +13,7 @@ pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 ---
-![이미지](/assets/image/robust_slip_detection.png)
+<!-- ![이미지](/assets/image/robust_slip_detection.png) -->
 DOI: <a href="https://ieeexplore.ieee.org/abstract/document/11130548" target="_blank">10.1109/JSEN.2025.3598269</a><br>
 <a href="https://ieeexplore.ieee.org/abstract/document/11130548" target="_blank">[Paper]</a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=O4yTPTrbXgQ" target="_blank">[Video]</a><br>

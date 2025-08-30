@@ -1,6 +1,8 @@
 ---
 title: 'Real-to-Sim High-Resolution Cloth Modeling: Physical Parameter Optimization Using Particle-Based Simulation with Robot Manipulation Data'
-date: 2025-08-24 12:00:00 +0900
+image:
+  path: /assets/image/padding_img/real2sim_cloth_modeling.png
+date: 2025-07-18 12:00:00 +0900
 categories: [paper]
 tags: [Cloth Simulation, Robotic Manipulation, Physical Parameter Estimation, Sim-to-Real] 
 author: [Kang-il_Yoon, Soo-Chul_Lim]
@@ -10,8 +12,9 @@ comments: true  # 댓글 허용 여부 (기본값: _config.yml 설정 따라감)
 pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
+
 ---
-![이미지](/assets/image/real2sim_cloth_modeling.png)
+
 DOI: <a href="https://academic.oup.com/jcde/article/12/8/29/8206149" target="_blank">10.1093/jcde/qwaf065</a><br>
 <a href="https://academic.oup.com/jcde/article/12/8/29/8206149" target="_blank">[Paper]</a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=Y72-moiScXQ" target="_blank">[Video]</a><br>

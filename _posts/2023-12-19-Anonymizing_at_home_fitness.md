@@ -1,5 +1,7 @@
 ---
 title: 'Anonymizing at-home fitness: enhancing privacy and motivation with virtual reality and try-on'
+image:
+  path: /assets/image/padding_img/anonymizing_at_home_fitness.png
 date: 2023-12-19 12:00:00 +0900
 categories: [paper]
 tags: [Computer Vision, Virtual Try-on]     # TAG names should always be lowercase
@@ -11,7 +13,7 @@ pin: true  # 홈 화면에서 상단 고정 (선택 사항)
 math: true  # 수학 수식 활성화 (선택 사항)
 mermaid: true  # Mermaid 다이어그램 활성화 (선택 사항)
 ---
-![이미지](/assets/image/anonymizing_at_home_fitness.png)
+<!-- ![이미지](/assets/image/anonymizing_at_home_fitness.png) -->
 <!-- Frontiers in Public Health, vol.11, 2023<br> -->
 DOI: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">10.3389/fpubh.2023.1333776</a><br>
 <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1333776/full" target="_blank">[Paper]</a> &nbsp;&nbsp;
